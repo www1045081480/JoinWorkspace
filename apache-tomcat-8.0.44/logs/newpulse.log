@@ -1,0 +1,2277 @@
+2017-06-07 10:34:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 10:34:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:34:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:34:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 10:34:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:34:03 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 10:34:03 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 10:34:03 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 10:34:03 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 10:34:03 DEBUG LoginAction:51 - ############login#########
+2017-06-07 10:34:03 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:34:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/logo.png
+2017-06-07 10:34:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:34:03 DEBUG LoggerFilter:59 - Status Code: 304
+2017-06-07 10:34:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/fonts/fontawesome-webfont.woff2
+2017-06-07 10:34:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:34:03 DEBUG LoggerFilter:75 - 	 [Parameter] v=4.3.0
+2017-06-07 10:34:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/icoAdd.png
+2017-06-07 10:34:03 DEBUG LoggerFilter:59 - Status Code: 304
+2017-06-07 10:34:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:34:03 DEBUG LoggerFilter:59 - Status Code: 304
+2017-06-07 10:34:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:34:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:34:05 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:34:05 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:34:05 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:34:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:34:08 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:34:08 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:34:08 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:34:08 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:34:08 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:34:08 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:55:40 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:55:40 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:55:41 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:55:41 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:55:41 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:55:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:55:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 10:55:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:55:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:55:45 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:55:45 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:55:45 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:55:45 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:55:45 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:55:45 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:55:53 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:55:53 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:55:53 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:55:53 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:55:53 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:55:53 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:56:16 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 10:56:16 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:56:16 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:56:17 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 10:56:17 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:56:17 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 10:56:17 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 10:56:17 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 10:56:17 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 10:56:17 DEBUG LoginAction:51 - ############login#########
+2017-06-07 10:56:18 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:56:26 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:56:26 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:56:26 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:56:26 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:56:26 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:56:26 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:57:14 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:57:14 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:57:14 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:57:14 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:57:14 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:57:14 DEBUG SearchAction:38 - 
+2017-06-07 10:57:14 DEBUG SearchAction:39 - 
+2017-06-07 10:57:15 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:57:21 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 10:57:21 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:57:21 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:57:22 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 10:57:22 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:57:22 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 10:57:22 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 10:57:22 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 10:57:22 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 10:57:22 DEBUG LoginAction:51 - ############login#########
+2017-06-07 10:57:22 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:57:27 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:57:27 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:57:27 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:57:27 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:57:27 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:57:27 DEBUG SearchAction:38 - 
+2017-06-07 10:57:27 DEBUG SearchAction:39 - 
+2017-06-07 10:57:27 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:58:43 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:58:43 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:58:43 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:58:43 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:58:43 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:58:43 DEBUG SearchAction:38 - 
+2017-06-07 10:58:43 DEBUG SearchAction:39 - 
+2017-06-07 10:58:43 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:58:46 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:58:46 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:58:46 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:58:46 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:58:46 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:58:46 DEBUG SearchAction:38 - 
+2017-06-07 10:58:46 DEBUG SearchAction:39 - 
+2017-06-07 10:58:46 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:14 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 10:59:14 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:59:14 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:15 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 10:59:15 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 10:59:15 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 10:59:15 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 10:59:15 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 10:59:15 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 10:59:15 DEBUG LoginAction:51 - ############login#########
+2017-06-07 10:59:15 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:19 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:59:19 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:59:19 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:59:19 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:59:19 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:59:19 DEBUG SearchAction:38 - 
+2017-06-07 10:59:19 DEBUG SearchAction:39 - 
+2017-06-07 10:59:19 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:20 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:59:20 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:59:20 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:59:20 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:59:20 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:59:20 DEBUG SearchAction:38 - 
+2017-06-07 10:59:20 DEBUG SearchAction:39 - 
+2017-06-07 10:59:20 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:21 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:59:21 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:59:21 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:59:21 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:59:22 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:59:22 DEBUG SearchAction:38 - 
+2017-06-07 10:59:22 DEBUG SearchAction:39 - 
+2017-06-07 10:59:22 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:22 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:59:22 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:59:22 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:59:22 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:59:22 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:59:22 DEBUG SearchAction:38 - 
+2017-06-07 10:59:22 DEBUG SearchAction:39 - 
+2017-06-07 10:59:22 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:23 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:59:23 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:59:23 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:59:23 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:59:23 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:59:23 DEBUG SearchAction:38 - 
+2017-06-07 10:59:23 DEBUG SearchAction:39 - 
+2017-06-07 10:59:23 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 10:59:25 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 10:59:25 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 10:59:25 DEBUG SearchAction:35 - ############login#########
+2017-06-07 10:59:25 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 10:59:25 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 10:59:25 DEBUG SearchAction:38 - 
+2017-06-07 10:59:25 DEBUG SearchAction:39 - 
+2017-06-07 10:59:25 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:00:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:00:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:00:43 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:00:44 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:00:44 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:00:44 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:00:44 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:00:48 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:00:48 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:00:48 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:00:48 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:00:48 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:00:48 DEBUG SearchAction:38 - 
+2017-06-07 11:00:48 DEBUG SearchAction:39 - 
+2017-06-07 11:00:48 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:01:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:01:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:01:04 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:01:04 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:01:04 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:01:04 DEBUG SearchAction:38 - 
+2017-06-07 11:01:04 DEBUG SearchAction:39 - 
+2017-06-07 11:01:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:01:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:01:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:01:05 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:01:05 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:01:05 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:01:05 DEBUG SearchAction:38 - 
+2017-06-07 11:01:05 DEBUG SearchAction:39 - 
+2017-06-07 11:01:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:01:06 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:01:06 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:01:06 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:01:06 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:01:06 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:01:06 DEBUG SearchAction:38 - 
+2017-06-07 11:01:06 DEBUG SearchAction:39 - 
+2017-06-07 11:01:06 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:01:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:01:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:01:33 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:01:33 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:01:33 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:01:33 DEBUG SearchAction:38 - 
+2017-06-07 11:01:33 DEBUG SearchAction:39 - 
+2017-06-07 11:01:34 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:01:54 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:01:54 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:01:55 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:01:56 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:01:56 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:01:56 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:01:56 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:01:56 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:01:56 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:01:56 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:01:56 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:02:00 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:02:00 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:02:00 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:02:00 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:02:00 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:02:00 DEBUG SearchAction:38 - 
+2017-06-07 11:02:00 DEBUG SearchAction:39 - 
+2017-06-07 11:02:00 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:05:17 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:05:17 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:05:17 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:05:17 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:05:17 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:05:17 DEBUG SearchAction:38 - 
+2017-06-07 11:05:17 DEBUG SearchAction:39 - 
+2017-06-07 11:05:18 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:11:10 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:11:10 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:11:10 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:11:10 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:11:10 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:11:10 DEBUG SearchAction:38 - 
+2017-06-07 11:11:10 DEBUG SearchAction:39 - 
+2017-06-07 11:11:10 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:13:07 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:13:07 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:13:07 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:13:09 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:13:09 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:13:09 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:13:09 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:13:09 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:13:09 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:13:09 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:13:09 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:13:37 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:13:37 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:13:37 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:13:37 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:13:37 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:13:37 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:14:08 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:14:08 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:14:08 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:14:08 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:14:08 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:14:08 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:14:08 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 11:14:08 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:14:08 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:14:12 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:14:12 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:14:12 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:14:12 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:14:12 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:14:12 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:14:31 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:14:31 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:14:31 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:14:32 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:14:32 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:14:32 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:14:32 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:14:32 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:14:32 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:14:32 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:14:32 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:14:36 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:14:36 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:14:36 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:14:36 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:14:36 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:14:36 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:18:57 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:18:57 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:18:57 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:18:57 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:18:57 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:18:57 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:18:57 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 11:18:57 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:18:57 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:19:00 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:19:00 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:19:00 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:19:00 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:19:00 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:19:00 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:19:20 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:19:20 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:19:20 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:19:21 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:19:21 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:19:21 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:19:21 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:19:21 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:19:21 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:19:21 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:19:21 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:19:25 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:19:25 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:19:25 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:19:25 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:19:25 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:19:25 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:19:29 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:19:29 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:19:29 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:19:29 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:19:29 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:19:29 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:19:54 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:19:54 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:19:54 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:19:54 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:19:54 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:19:54 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:20:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:20:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:20:03 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:20:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:20:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:20:04 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:20:04 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:20:04 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:20:04 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:20:05 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:20:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:20:08 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:20:08 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:20:08 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:20:08 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:20:08 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:20:08 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:21:31 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:21:31 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:21:31 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:21:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:21:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:21:33 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:21:33 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:21:33 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:21:33 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:21:34 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:21:34 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:21:37 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:21:37 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:21:37 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:21:37 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:21:38 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:21:38 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:15 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:22:15 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:22:15 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:16 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:22:16 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:22:16 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:22:16 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:22:16 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:22:16 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:22:16 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:22:16 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:19 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:22:19 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:22:19 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:22:19 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:22:20 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:22:20 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:21 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:22:21 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:22:21 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:22:21 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:22:21 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:22:21 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:22 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:22:22 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:22:22 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:22:22 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:22:22 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:22:22 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:22 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:22:22 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:22:22 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:22:22 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:22:22 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:22:22 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:23 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:22:23 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:22:23 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:22:23 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:22:23 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:22:23 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:22:24 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:22:24 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:22:24 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:22:24 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:22:24 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:22:24 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:23:14 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:23:14 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:23:14 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:23:15 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:23:15 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:23:15 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:23:15 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:23:15 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:23:15 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:23:15 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:23:15 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:23:18 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:23:18 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:23:18 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:23:18 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:23:19 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:23:19 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:23:20 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:23:20 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:23:20 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:23:20 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:23:20 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:23:20 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:24:14 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:24:14 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:24:14 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:24:16 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:24:16 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:24:16 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:24:16 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:24:16 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:24:16 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:24:16 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:24:16 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:24:19 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:24:19 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:24:19 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:24:19 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:24:20 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:24:20 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:24:28 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:24:28 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:24:28 DEBUG LoggerFilter:75 - 	 [Parameter] 2342432=
+2017-06-07 11:24:28 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:24:28 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:24:29 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:24:29 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:25:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:25:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:25:02 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=345
+2017-06-07 11:25:02 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=123
+2017-06-07 11:25:02 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:25:02 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:25:02 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:25:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:48:32 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:48:32 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:48:32 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:48:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:48:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:48:33 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:48:33 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:48:33 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:48:33 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:48:33 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:48:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:48:37 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:48:37 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:48:37 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:48:37 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:48:37 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:48:37 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:49:14 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:49:14 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:49:14 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:49:14 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:49:14 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:49:15 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:49:19 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 11:49:19 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:49:19 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:49:21 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:49:21 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:49:21 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:49:21 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:49:21 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:49:21 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:49:21 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:49:21 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:49:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 11:49:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:49:33 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 11:49:33 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 11:49:33 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 11:49:33 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 11:49:33 DEBUG LoginAction:51 - ############login#########
+2017-06-07 11:49:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:49:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 11:49:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 11:49:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 11:49:36 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 11:49:36 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 11:49:36 DEBUG SearchAction:35 - ############login#########
+2017-06-07 11:49:36 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 11:49:36 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 11:49:36 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:00:40 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:00:40 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:00:40 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:00:41 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:00:41 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:00:41 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:00:41 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:00:41 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:00:41 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:00:41 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:00:41 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:00:45 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:00:45 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:00:45 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:00:45 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:00:45 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:00:45 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:01:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:01:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:01:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:01:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:01:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:01:05 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:01:05 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:01:05 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:01:05 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:01:05 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:01:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:01:07 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:01:07 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:01:07 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:01:07 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:01:07 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:01:07 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:02:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:02:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:34 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/images/xlog.png
+2017-06-07 12:02:34 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:02:34 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:34 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:02:34 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:02:34 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:02:34 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:02:34 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:02:34 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:02:34 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:02:34 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:35 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/logo.png
+2017-06-07 12:02:35 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:02:35 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:35 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/fonts/fontawesome-webfont.woff2
+2017-06-07 12:02:35 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:02:35 DEBUG LoggerFilter:75 - 	 [Parameter] v=4.3.0
+2017-06-07 12:02:35 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/icoAdd.png
+2017-06-07 12:02:35 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:02:35 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:35 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:35 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 12:02:35 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:02:35 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:45 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:02:45 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:02:45 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:02:45 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:02:45 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:02:45 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:02:45 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:02:45 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:46 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 12:02:46 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:02:46 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:02:51 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:02:51 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:02:51 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=qrew
+2017-06-07 12:02:51 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=wqer
+2017-06-07 12:02:51 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:02:51 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:02:51 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:02:51 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:03:50 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:03:50 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:03:50 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=234
+2017-06-07 12:03:50 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=234
+2017-06-07 12:03:50 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:03:50 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:03:50 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:03:50 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:13:59 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:13:59 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:13:59 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:14:00 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/images/xlog.png
+2017-06-07 12:14:00 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:14:00 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:14:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:14:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:14:01 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:14:01 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:14:01 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:14:01 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:14:01 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:14:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:14:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/logo.png
+2017-06-07 12:14:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:14:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:14:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/fonts/fontawesome-webfont.woff2
+2017-06-07 12:14:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:14:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/icoAdd.png
+2017-06-07 12:14:02 DEBUG LoggerFilter:75 - 	 [Parameter] v=4.3.0
+2017-06-07 12:14:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:14:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:14:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:14:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 12:14:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:14:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:14:06 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:14:06 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:14:06 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=34535
+2017-06-07 12:14:06 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=3453
+2017-06-07 12:14:06 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:14:06 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:14:06 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:14:06 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:19:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:19:01 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/images/xlog.png
+2017-06-07 12:19:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:19:01 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:19:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:19:02 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:19:02 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:19:02 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:19:02 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:19:03 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:19:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/logo.png
+2017-06-07 12:19:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:19:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/fonts/fontawesome-webfont.woff2
+2017-06-07 12:19:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:19:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/icoAdd.png
+2017-06-07 12:19:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:19:04 DEBUG LoggerFilter:75 - 	 [Parameter] v=4.3.0
+2017-06-07 12:19:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 12:19:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:19:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:09 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:19:09 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:19:09 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=/12313
+2017-06-07 12:19:09 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=/13213
+2017-06-07 12:19:09 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:19:09 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:19:09 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:19:09 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:19:21 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:19:21 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:19:21 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=2
+2017-06-07 12:19:21 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=1
+2017-06-07 12:19:21 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:19:21 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:19:21 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:19:21 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:20:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:20:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:20:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:20:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:20:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:20:05 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:20:05 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:20:05 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:20:05 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:20:05 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:20:06 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:20:09 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:20:09 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:20:09 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=45646
+2017-06-07 12:20:09 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=456
+2017-06-07 12:20:09 DEBUG SearchAction:35 - ############login#########
+2017-06-07 12:20:09 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:20:09 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:20:09 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:29:56 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:29:56 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:29:56 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:29:57 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:29:57 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:29:57 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:29:57 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:29:57 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:29:57 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:29:57 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:29:57 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:30:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:30:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:30:01 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:30:01 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:30:01 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:30:01 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.search.SearchAction.execute(SearchAction.java:52)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-07 12:30:01 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-07 12:30:32 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:30:32 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:30:32 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:30:41 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:30:41 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:30:41 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:30:41 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:30:41 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:30:41 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:30:41 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:30:41 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:30:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:30:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:30:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:30:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:30:50 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:31:31 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:31:31 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:31:31 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:31:32 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:31:32 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:31:32 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:31:32 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:31:33 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:31:33 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:31:33 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:31:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:31:35 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:31:35 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:31:35 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:31:35 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:31:35 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:31:35 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.search.SearchAction.execute(SearchAction.java:52)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-07 12:31:35 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-07 12:31:52 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:31:52 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:31:52 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:31:54 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:31:54 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:31:54 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:31:54 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:31:54 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:31:54 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:31:54 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:31:54 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:31:56 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:31:56 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:31:56 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:31:56 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:32:00 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:33:30 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:33:30 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:33:30 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:33:31 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:33:31 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:33:31 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:33:31 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:33:31 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:33:31 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:33:31 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:33:32 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:33:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:33:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:33:33 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:33:33 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:33:38 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:34:07 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:34:07 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:34:07 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:34:08 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:34:08 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:34:08 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:34:08 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:34:08 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:34:08 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:34:08 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:34:09 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:34:10 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:34:10 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:34:10 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:34:10 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:34:10 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:34:10 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:34:10 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:34:10 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:34:16 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:34:16 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:34:16 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:34:16 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 12:34:16 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:34:16 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.search.SearchAction.execute(SearchAction.java:52)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-07 12:34:16 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-07 12:34:55 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:34:55 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:34:55 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:34:56 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:34:56 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:34:56 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:34:56 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:34:56 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:34:56 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:34:56 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:34:56 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:35:00 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:35:00 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:35:00 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:35:00 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 12:35:00 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:35:00 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.search.SearchAction.execute(SearchAction.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-07 12:35:00 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-07 12:35:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:35:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:35:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:35:34 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:35:34 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:35:34 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:35:34 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:35:34 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:35:34 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:35:34 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:35:35 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:35:38 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:35:38 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:35:38 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:35:38 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 12:35:43 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:40:20 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:40:20 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:40:21 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:40:22 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:40:22 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:40:22 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:40:22 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:40:22 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:40:22 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:40:22 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:40:22 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:40:26 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:40:26 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:40:26 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:40:26 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 12:40:26 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:40:26 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001'
+2017-06-07 12:40:27 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:40:27 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:40:35 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:40:35 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:40:35 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=ss
+2017-06-07 12:40:35 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:40:35 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:40:35 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%ss%'
+2017-06-07 12:40:35 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:40:35 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:40:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:40:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:40:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=d
+2017-06-07 12:40:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:40:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:40:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%d%'
+2017-06-07 12:40:42 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:40:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:40:48 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:40:48 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:40:48 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=d
+2017-06-07 12:40:48 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10002
+2017-06-07 12:40:48 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:40:48 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10002' AND CNAME like '%d%'
+2017-06-07 12:40:48 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:40:48 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:46:12 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:46:12 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:46:12 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=d
+2017-06-07 12:46:12 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10002
+2017-06-07 12:46:12 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:46:12 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10002' AND CNAME like '%d%'
+2017-06-07 12:46:12 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:46:12 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:46:17 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:46:17 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:46:17 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:46:17 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:46:17 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:46:17 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:46:17 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:46:17 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:46:23 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:46:23 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:46:23 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=a
+2017-06-07 12:46:23 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:46:23 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:46:23 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%a%'
+2017-06-07 12:46:23 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:46:23 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:46:29 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:46:29 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:46:29 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:46:29 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:46:29 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:46:29 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:46:29 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:46:29 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:46:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:46:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:46:33 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=ae
+2017-06-07 12:46:33 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:46:33 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:46:33 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%ae%'
+2017-06-07 12:46:33 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 12:46:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:46:37 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:46:37 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:46:37 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:46:37 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:46:37 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:46:37 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:46:37 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:46:37 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:46:41 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:46:41 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:46:41 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=e
+2017-06-07 12:46:41 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:46:41 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:46:41 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%e%'
+2017-06-07 12:46:41 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:46:41 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:47:30 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:47:30 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:47:30 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=e
+2017-06-07 12:47:30 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:47:30 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:47:30 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%e%'
+2017-06-07 12:47:30 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:47:31 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:48:36 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:48:36 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:48:36 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=e
+2017-06-07 12:48:36 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:48:36 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:48:36 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%e%'
+2017-06-07 12:48:36 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:48:36 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:15 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-07 12:52:15 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 12:52:15 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:16 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-07 12:52:16 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:16 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-07 12:52:16 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-07 12:52:16 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-07 12:52:16 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-07 12:52:16 DEBUG LoginAction:51 - ############login#########
+2017-06-07 12:52:16 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:21 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:52:21 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:21 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=123
+2017-06-07 12:52:21 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=123
+2017-06-07 12:52:21 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:52:21 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '123' AND CNAME like '%123%'
+2017-06-07 12:52:21 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 12:52:21 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:23 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:52:23 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:23 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:52:23 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:52:23 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:52:23 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:52:23 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:52:23 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:29 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:52:29 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:29 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:52:29 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10003
+2017-06-07 12:52:29 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:52:29 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10003'
+2017-06-07 12:52:29 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:52:29 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:34 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:52:34 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:34 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:52:34 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:52:34 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:52:34 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:52:34 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:52:34 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:38 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:52:38 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:38 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:52:38 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:52:38 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:52:38 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:52:38 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:52:38 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:44 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:52:44 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:44 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:52:44 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10002
+2017-06-07 12:52:44 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:52:44 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10002'
+2017-06-07 12:52:44 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:52:44 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:52:46 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:52:46 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:52:46 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:52:46 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:52:46 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:52:46 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:52:47 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:52:47 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:54:53 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:54:53 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:54:53 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:54:53 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:54:53 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:54:53 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:54:53 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:54:53 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:54:55 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:54:55 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:54:55 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:54:55 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:54:55 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:54:55 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:54:55 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:54:55 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:54:56 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:54:56 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:54:56 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:54:56 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:54:56 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:54:56 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:54:56 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:54:56 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:54:57 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:54:57 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:54:57 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:54:57 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:54:57 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:54:57 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:54:57 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:54:57 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:16 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:16 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:16 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:16 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:16 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:16 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:16 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:16 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:17 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:17 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:17 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:17 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:17 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:17 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:17 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:17 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:18 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:18 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:18 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:18 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:18 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:18 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:18 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:18 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:18 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:18 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:18 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:18 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:18 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:18 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:18 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:18 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:19 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:19 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:19 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:19 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:19 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:19 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:19 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:19 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:24 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:24 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:24 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:24 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 12:58:24 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:24 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001'
+2017-06-07 12:58:24 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 12:58:24 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:27 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:27 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:27 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:27 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:27 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:27 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:27 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:27 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:37 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:37 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:37 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:37 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:37 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:37 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:37 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:37 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:38 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:38 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:38 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:38 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:38 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:38 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:38 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:38 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:39 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:39 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:39 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:39 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:39 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:39 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:39 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:39 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:40 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:40 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:40 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:40 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:40 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:40 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:40 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:40 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:58:40 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:58:40 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:58:40 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:58:40 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:58:40 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:58:40 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:58:40 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:58:40 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:01 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=a
+2017-06-07 12:59:01 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:01 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:01 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%a%'
+2017-06-07 12:59:01 DEBUG Criteria:295 - Fetch Result : 2 件
+2017-06-07 12:59:01 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:04 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:04 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:04 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:04 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:04 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:32 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:32 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:32 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:32 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:32 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:32 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:32 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:32 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:33 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:33 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:33 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:33 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:33 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:41 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:41 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:41 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:41 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:42 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:42 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:42 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:42 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 12:59:42 TRACE LoggerFilter:56 - java.io.IOException: 您的主机中的软件中止了一个已建立的连接。
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:124)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:172)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.writeToSocket(InternalNioOutputBuffer.java:140)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.addToBB(InternalNioOutputBuffer.java:198)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.access$000(InternalNioOutputBuffer.java:42)
+	at org.apache.coyote.http11.InternalNioOutputBuffer$SocketOutputBuffer.doWrite(InternalNioOutputBuffer.java:321)
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.doWrite(ChunkedOutputFilter.java:116)
+	at org.apache.coyote.http11.AbstractOutputBuffer.doWrite(AbstractOutputBuffer.java:256)
+	at org.apache.coyote.Response.doWrite(Response.java:491)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:391)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:426)
+	at org.apache.catalina.connector.OutputBuffer.realWriteChars(OutputBuffer.java:474)
+	at org.apache.tomcat.util.buf.CharChunk.flushBuffer(CharChunk.java:393)
+	at org.apache.tomcat.util.buf.CharChunk.append(CharChunk.java:298)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:516)
+	at org.apache.catalina.connector.CoyoteWriter.write(CoyoteWriter.java:148)
+	at org.apache.jasper.runtime.JspWriterImpl.flushBuffer(JspWriterImpl.java:109)
+	at org.apache.jasper.runtime.JspWriterImpl.write(JspWriterImpl.java:326)
+	at java.io.Writer.write(Writer.java:157)
+	at org.apache.jsp.WEB_002dINF.main.search_jsp._jspx_meth_s_005fiterator_005f0(search_jsp.java:695)
+	at org.apache.jsp.WEB_002dINF.main.search_jsp._jspService(search_jsp.java:543)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:716)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:466)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:391)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:318)
+	at org.apache.struts2.dispatcher.ServletDispatcherResult.doExecute(ServletDispatcherResult.java:154)
+	at org.apache.struts2.dispatcher.StrutsResultSupport.execute(StrutsResultSupport.java:186)
+	at com.opensymphony.xwork2.DefaultActionInvocation.executeResult(DefaultActionInvocation.java:362)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:266)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-07 12:59:42 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-07 12:59:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 12:59:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 12:59:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 12:59:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 12:59:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 12:59:42 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:42 TRACE LoggerFilter:56 - java.io.IOException: 您的主机中的软件中止了一个已建立的连接。
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:124)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:172)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.writeToSocket(InternalNioOutputBuffer.java:140)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.addToBB(InternalNioOutputBuffer.java:198)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.access$000(InternalNioOutputBuffer.java:42)
+	at org.apache.coyote.http11.InternalNioOutputBuffer$SocketOutputBuffer.doWrite(InternalNioOutputBuffer.java:321)
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.doWrite(ChunkedOutputFilter.java:116)
+	at org.apache.coyote.http11.AbstractOutputBuffer.doWrite(AbstractOutputBuffer.java:256)
+	at org.apache.coyote.Response.doWrite(Response.java:491)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:391)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:426)
+	at org.apache.catalina.connector.OutputBuffer.realWriteChars(OutputBuffer.java:474)
+	at org.apache.tomcat.util.buf.CharChunk.flushBuffer(CharChunk.java:393)
+	at org.apache.tomcat.util.buf.CharChunk.append(CharChunk.java:298)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:516)
+	at org.apache.catalina.connector.CoyoteWriter.write(CoyoteWriter.java:148)
+	at org.apache.jasper.runtime.JspWriterImpl.flushBuffer(JspWriterImpl.java:109)
+	at org.apache.jasper.runtime.JspWriterImpl.write(JspWriterImpl.java:326)
+	at java.io.Writer.write(Writer.java:157)
+	at org.apache.jsp.WEB_002dINF.main.search_jsp._jspx_meth_s_005fiterator_005f0(search_jsp.java:695)
+	at org.apache.jsp.WEB_002dINF.main.search_jsp._jspService(search_jsp.java:543)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:438)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:396)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:340)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:716)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:466)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:391)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:318)
+	at org.apache.struts2.dispatcher.ServletDispatcherResult.doExecute(ServletDispatcherResult.java:154)
+	at org.apache.struts2.dispatcher.StrutsResultSupport.execute(StrutsResultSupport.java:186)
+	at com.opensymphony.xwork2.DefaultActionInvocation.executeResult(DefaultActionInvocation.java:362)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:266)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-07 12:59:42 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-07 12:59:43 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 12:59:43 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:00:43 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:00:43 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:00:43 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:00:43 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:00:43 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:00:43 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:00:43 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:00:43 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:00:44 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:00:44 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:00:44 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:00:44 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:00:44 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:00:44 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:00:44 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:00:44 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:00:44 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:00:44 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:00:44 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:00:44 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:00:44 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:00:45 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:00:45 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:00:45 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:00:45 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:00:45 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:00:45 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:00:45 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:00:45 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:00:46 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:00:46 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 13:00:46 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:00:46 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.search.SearchAction.execute(SearchAction.java:39)
+	at sun.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-07 13:00:46 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-07 13:02:32 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:02:32 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:02:32 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=a
+2017-06-07 13:02:32 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:02:32 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:02:32 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%a%'
+2017-06-07 13:02:32 DEBUG Criteria:295 - Fetch Result : 2 件
+2017-06-07 13:02:32 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:02:34 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:02:34 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:02:34 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:02:34 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:02:34 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:02:34 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:02:34 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:02:34 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:02:39 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:02:39 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:02:39 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:02:39 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10003
+2017-06-07 13:02:39 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:02:39 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10003'
+2017-06-07 13:02:39 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 13:02:39 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:02:41 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:02:41 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:02:41 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:02:41 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=1
+2017-06-07 13:02:41 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:02:41 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '1'
+2017-06-07 13:02:41 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 13:02:41 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:02:44 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:02:44 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:02:44 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:02:44 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:02:44 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:02:44 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:02:44 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:02:44 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:02:49 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:02:49 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:02:49 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:02:49 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=1
+2017-06-07 13:02:49 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:02:49 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '1'
+2017-06-07 13:02:50 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 13:02:50 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:02:57 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:02:57 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:02:57 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:02:57 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 13:02:57 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:02:57 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001'
+2017-06-07 13:02:57 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 13:02:57 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:03:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:03:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:03:03 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:03:03 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:03:03 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:03:03 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:03:03 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:03:03 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:05:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:05:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:05:01 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:05:01 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:05:01 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:05:01 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:05:01 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 13:05:01 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:05:17 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:05:17 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:05:17 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=a
+2017-06-07 13:05:17 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:05:17 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:05:17 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%a%'
+2017-06-07 13:05:17 DEBUG Criteria:295 - Fetch Result : 2 件
+2017-06-07 13:05:17 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:05:19 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:05:19 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:05:19 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=q
+2017-06-07 13:05:19 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:05:19 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:05:19 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%q%'
+2017-06-07 13:05:19 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 13:05:19 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:05:22 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:05:22 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:05:22 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=e
+2017-06-07 13:05:22 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:05:22 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:05:22 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%e%'
+2017-06-07 13:05:22 DEBUG Criteria:295 - Fetch Result : 2 件
+2017-06-07 13:05:22 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:05:26 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:05:26 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:05:26 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:05:26 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:05:26 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:05:26 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:05:26 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 13:05:26 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:05:36 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:05:36 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:05:36 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:05:36 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10013
+2017-06-07 13:05:36 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:05:36 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10013'
+2017-06-07 13:05:36 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 13:05:36 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:05:38 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:05:38 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:05:38 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:05:38 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:05:38 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:05:38 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:05:38 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 13:05:38 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:11:37 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:11:37 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:11:37 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:11:37 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:11:37 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:11:37 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:11:38 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 13:11:38 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:11:41 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:11:41 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:11:41 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:11:41 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 13:11:41 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:11:41 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001'
+2017-06-07 13:11:42 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 13:11:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 13:11:44 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 13:11:44 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 13:11:44 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 13:11:44 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 13:11:44 DEBUG SearchAction:37 - ############login#########
+2017-06-07 13:11:44 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 13:11:44 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 13:11:44 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:05:13 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:05:13 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:05:13 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:05:13 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:05:13 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:05:13 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:05:13 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:05:13 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:05:47 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:05:47 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:05:47 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:05:47 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 14:05:47 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:05:47 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001'
+2017-06-07 14:05:47 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 14:05:47 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:05:50 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:05:50 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:05:50 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:05:50 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:05:50 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:05:50 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:05:50 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:05:50 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:05:56 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:05:56 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:05:56 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=aqw
+2017-06-07 14:05:56 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:05:56 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:05:56 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%aqw%'
+2017-06-07 14:05:56 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 14:05:56 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:05:59 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:05:59 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:05:59 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=q
+2017-06-07 14:05:59 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:05:59 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:05:59 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%q%'
+2017-06-07 14:05:59 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 14:05:59 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:06:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:06:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:06:02 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:06:02 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:06:02 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:06:02 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:06:02 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:06:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:06:09 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:06:09 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:06:09 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:06:09 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:06:09 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:06:09 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:06:09 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:06:09 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:42 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:42 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:42 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:09:42 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:09:42 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:42 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:09:42 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:09:42 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:46 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:46 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:46 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:09:46 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 14:09:46 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:46 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001'
+2017-06-07 14:09:46 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 14:09:46 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:48 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:48 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:48 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:09:48 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:09:48 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:48 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:09:48 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:09:48 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:52 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:52 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:52 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=123
+2017-06-07 14:09:52 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=123
+2017-06-07 14:09:52 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:52 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '123' AND CNAME like '%123%'
+2017-06-07 14:09:53 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 14:09:53 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:54 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:54 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:54 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:09:54 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:09:54 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:54 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:09:54 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:09:54 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:56 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:56 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:56 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=123
+2017-06-07 14:09:56 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:09:56 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:56 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%123%'
+2017-06-07 14:09:56 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 14:09:56 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:57 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:57 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:57 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:09:57 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:09:57 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:57 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:09:57 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:09:57 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:09:58 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:09:58 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:09:58 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=1
+2017-06-07 14:09:58 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:09:58 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:09:58 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%1%'
+2017-06-07 14:09:58 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 14:09:58 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:10:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:10:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:10:01 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=q
+2017-06-07 14:10:01 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:10:01 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:10:01 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%q%'
+2017-06-07 14:10:01 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 14:10:01 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:10:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:10:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:10:04 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:10:04 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:10:04 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:10:04 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:10:04 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:10:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:18:34 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:18:34 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:18:34 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:18:34 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:18:34 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:18:34 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:18:34 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:18:34 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:18:39 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:18:39 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:18:39 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=a
+2017-06-07 14:18:39 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:18:39 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:18:39 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%a%'
+2017-06-07 14:18:39 DEBUG Criteria:295 - Fetch Result : 2 件
+2017-06-07 14:18:39 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:18:40 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:18:40 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:18:40 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:18:40 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:18:40 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:18:40 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:18:40 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:18:40 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:18:53 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:18:53 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:18:53 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=v
+2017-06-07 14:18:53 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 14:18:53 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:18:53 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001' AND CNAME like '%v%'
+2017-06-07 14:18:53 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-07 14:18:53 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:18:55 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:18:55 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:18:55 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=b
+2017-06-07 14:18:55 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=10001
+2017-06-07 14:18:55 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:18:55 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '10001' AND CNAME like '%b%'
+2017-06-07 14:18:55 DEBUG Criteria:295 - Fetch Result : 1 件
+2017-06-07 14:18:55 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 14:18:58 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 14:18:58 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 14:18:58 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 14:18:58 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 14:18:58 DEBUG SearchAction:37 - ############login#########
+2017-06-07 14:18:58 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 14:18:58 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 14:18:58 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 18:42:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 18:42:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 18:42:01 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=q
+2017-06-07 18:42:01 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 18:42:01 DEBUG SearchAction:37 - ############login#########
+2017-06-07 18:42:01 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE CNAME like '%q%'
+2017-06-07 18:42:01 DEBUG Criteria:295 - Fetch Result : 3 件
+2017-06-07 18:42:01 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 18:42:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/logo.png
+2017-06-07 18:42:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 18:42:01 DEBUG LoggerFilter:59 - Status Code: 304
+2017-06-07 18:42:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/fonts/fontawesome-webfont.woff2
+2017-06-07 18:42:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 18:42:01 DEBUG LoggerFilter:75 - 	 [Parameter] v=4.3.0
+2017-06-07 18:42:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/icoAdd.png
+2017-06-07 18:42:01 DEBUG LoggerFilter:59 - Status Code: 304
+2017-06-07 18:42:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 18:42:01 DEBUG LoggerFilter:59 - Status Code: 304
+2017-06-07 18:42:01 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-07 18:42:01 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-07 18:42:01 DEBUG LoggerFilter:59 - Status Code: 304
+2017-06-07 18:42:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 18:42:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 18:42:02 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 18:42:02 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 18:42:02 DEBUG SearchAction:37 - ############login#########
+2017-06-07 18:42:02 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 18:42:02 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 18:42:02 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 18:42:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 18:42:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 18:42:03 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 18:42:03 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 18:42:03 DEBUG SearchAction:37 - ############login#########
+2017-06-07 18:42:03 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 18:42:03 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 18:42:03 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-07 18:42:03 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-07 18:42:03 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-07 18:42:03 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-07 18:42:03 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-07 18:42:03 DEBUG SearchAction:37 - ############login#########
+2017-06-07 18:42:03 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-07 18:42:03 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-07 18:42:03 DEBUG LoggerFilter:59 - Status Code: 200

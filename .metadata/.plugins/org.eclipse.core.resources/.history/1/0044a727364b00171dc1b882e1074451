@@ -1,0 +1,9 @@
+function Search1(){
+	 alert("123");
+	 var NapaId = document.getElementById("NapaId").value;
+	 var Cname = document.getElementById("Cname").value;
+	 alert(Cname);
+	 document.getElementById("SearchForm").action="search.action?NapaId="+NapaId+"&Cname="+Cname;
+	 //alert(document.getElementById("SearchForm").action);
+	 document.getElementById("SearchForm").submit();
+}

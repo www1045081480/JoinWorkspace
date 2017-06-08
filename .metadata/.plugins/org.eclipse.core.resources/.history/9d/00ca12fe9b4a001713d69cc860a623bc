@@ -1,0 +1,4 @@
+function Search(){
+	 var NapaId = document.getElementById("NapaId").value;
+	 var Cname = document.getElementById("Cname").value;
+}
