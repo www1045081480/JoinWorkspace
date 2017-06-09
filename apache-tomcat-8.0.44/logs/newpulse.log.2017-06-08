@@ -1,0 +1,353 @@
+2017-06-08 15:25:28 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-08 15:25:28 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 15:25:28 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:25:28 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/images/xlog.png
+2017-06-08 15:25:28 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 15:25:28 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:25:30 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-08 15:25:30 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 15:25:30 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-08 15:25:30 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-08 15:25:30 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-08 15:25:30 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-08 15:25:30 DEBUG LoginAction:51 - ############login#########
+2017-06-08 15:25:30 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:25:30 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/logo.png
+2017-06-08 15:25:30 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 15:25:30 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:25:30 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/fonts/fontawesome-webfont.woff2
+2017-06-08 15:25:30 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 15:25:30 DEBUG LoggerFilter:75 - 	 [Parameter] v=4.3.0
+2017-06-08 15:25:30 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:25:30 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/icoAdd.png
+2017-06-08 15:25:30 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 15:25:30 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:25:31 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-08 15:25:31 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 15:25:31 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:25:33 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-08 15:25:33 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 15:25:33 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-08 15:25:33 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-08 15:25:33 DEBUG SearchAction:37 - ############login#########
+2017-06-08 15:25:33 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-08 15:25:33 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-08 15:25:33 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:46:20 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-08 15:46:20 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 15:46:20 DEBUG SearchAction:37 - ############login#########
+2017-06-08 15:46:20 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.search.SearchAction.execute(SearchAction.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-08 15:46:20 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-08 15:50:14 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-08 15:50:14 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 15:50:14 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-08 15:50:14 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-08 15:50:14 DEBUG SearchAction:37 - ############login#########
+2017-06-08 15:50:14 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-08 15:50:14 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-08 15:50:16 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 15:53:30 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-08 15:53:30 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 15:53:30 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-08 15:53:30 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-08 15:53:30 DEBUG SearchAction:37 - ############login#########
+2017-06-08 15:53:30 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-08 15:53:30 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-08 15:53:30 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:17:07 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-08 17:17:07 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:17:08 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:17:08 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/images/xlog.png
+2017-06-08 17:17:08 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:17:08 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:17:10 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-08 17:17:10 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 17:17:10 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-08 17:17:10 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-08 17:17:10 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-08 17:17:10 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-08 17:17:10 DEBUG LoginAction:92 - ############login#########
+2017-06-08 17:17:10 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.login.LoginAction.execute(LoginAction.java:94)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-08 17:17:10 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-08 17:18:09 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-08 17:18:09 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:18:10 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:18:11 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-08 17:18:11 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 17:18:11 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-08 17:18:11 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-08 17:18:11 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-08 17:18:11 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-08 17:18:11 DEBUG LoginAction:92 - ############login#########
+2017-06-08 17:18:26 TRACE LoggerFilter:56 - java.lang.NullPointerException
+	at jp.newpulse.action.login.LoginAction.execute(LoginAction.java:94)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:441)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:280)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:243)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.np.order.action.LoggerFilter.doFilter(LoggerFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1533)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1489)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2017-06-08 17:18:26 DEBUG LoggerFilter:59 - Status Code: 500
+2017-06-08 17:27:02 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/index.jsp
+2017-06-08 17:27:02 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:27:03 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:27:04 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/login.action
+2017-06-08 17:27:04 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 17:27:04 DEBUG LoggerFilter:75 - 	 [Parameter] login=?????¤
+2017-06-08 17:27:04 DEBUG LoggerFilter:75 - 	 [Parameter] passWord=
+2017-06-08 17:27:04 DEBUG LoggerFilter:75 - 	 [Parameter] rememberMe=on
+2017-06-08 17:27:04 DEBUG LoggerFilter:75 - 	 [Parameter] userId=
+2017-06-08 17:27:04 DEBUG LoginAction:92 - ############login#########
+2017-06-08 17:27:04 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-08 17:27:04 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-08 17:27:04 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:27:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/icoAdd.png
+2017-06-08 17:27:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:27:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:27:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/fonts/fontawesome-webfont.woff2
+2017-06-08 17:27:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:27:05 DEBUG LoggerFilter:75 - 	 [Parameter] v=4.3.0
+2017-06-08 17:27:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/logo.png
+2017-06-08 17:27:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:27:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:27:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:27:05 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/assets/i/favicon.png
+2017-06-08 17:27:05 DEBUG LoggerFilter:67 - [Reuqest] ContentType=null
+2017-06-08 17:27:05 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:27:11 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-08 17:27:11 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 17:27:11 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=123
+2017-06-08 17:27:11 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=123
+2017-06-08 17:27:11 DEBUG SearchAction:37 - ############login#########
+2017-06-08 17:27:11 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL WHERE NAPAId = '123' AND CNAME like '%123%'
+2017-06-08 17:27:11 DEBUG Criteria:295 - Fetch Result : 0 件
+2017-06-08 17:27:11 DEBUG LoggerFilter:59 - Status Code: 200
+2017-06-08 17:27:13 DEBUG LoggerFilter:66 - [Reuqest] URI=/WBS/xinan/xinan/search.action
+2017-06-08 17:27:13 DEBUG LoggerFilter:67 - [Reuqest] ContentType=application/x-www-form-urlencoded
+2017-06-08 17:27:13 DEBUG LoggerFilter:75 - 	 [Parameter] Cname=
+2017-06-08 17:27:13 DEBUG LoggerFilter:75 - 	 [Parameter] NapaId=
+2017-06-08 17:27:13 DEBUG SearchAction:37 - ############login#########
+2017-06-08 17:27:13 DEBUG Criteria:263 - SELECT NAPAId,SECURITY,CNAME,SUBCNAME,ADDRESS FROM NAPA_STORES_TBL
+2017-06-08 17:27:13 DEBUG Criteria:295 - Fetch Result : 13 件
+2017-06-08 17:27:13 DEBUG LoggerFilter:59 - Status Code: 200

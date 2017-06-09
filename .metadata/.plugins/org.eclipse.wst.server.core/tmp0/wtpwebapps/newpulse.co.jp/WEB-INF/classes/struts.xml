@@ -27,6 +27,11 @@
 			/WEB-INF/main/json.jsp
 			</result>
 		</action>
+		<action name="InsertIntoAction" class="jp.newpulse.action.create.InsertIntoAction">
+			<result name="success">
+				/WEB-INF/main/json.jsp
+			</result>
+		</action>
 		<action name="search" class="jp.newpulse.action.search.SearchAction">
 			<result name="success">
 				/WEB-INF/main/search.jsp

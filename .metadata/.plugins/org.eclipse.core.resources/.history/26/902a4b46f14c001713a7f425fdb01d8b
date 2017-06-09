@@ -1,0 +1,35 @@
+function Search(){
+	 var NapaId = document.getElementById("NapaId").value;
+	 var Cname = document.getElementById("Cname").value;
+	 document.getElementById("Cname1").value = document.getElementById("Cname").value;
+	 document.getElementById("NapaId1").value = document.getElementById("NapaId").value;
+	 document.getElementById("SearchForm").submit();
+}
+function Clean(){
+	 document.getElementById("Cname").value = "";
+	 document.getElementById("NapaId").value= "";
+	 document.getElementById("Cname1").value = "";
+	 document.getElementById("NapaId1").value = "";
+}
+
+function insertInto(){
+	$.ajax({
+		type:"post",
+		url:"xinan/InsertIntoAction.action",
+		async:"true",
+		//data:urlstr,
+		dataType:"json",
+		error:function(data){
+			alert("登録失敗！");
+		},
+		success: function(data){
+			//alert(data.InvoiceID);
+			//alert(data.PackingListId);
+			$("#NapaId1").val(data.NapaId);
+			$("#Security1").val(data.Security);
+			//detailSave(data.InvoiceID,data.PackingListId);
+			
+		}
+	});
+	
+}

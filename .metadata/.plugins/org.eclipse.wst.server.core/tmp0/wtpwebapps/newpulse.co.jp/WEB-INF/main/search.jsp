@@ -161,13 +161,39 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					success: function(data){
 						//alert(data.InvoiceID);
 						//alert(data.PackingListId);
-						$("#NapaId1").val(data.NapaId);
-						$("#Security1").val(data.Security);
+						$("#NapaId2").val(data.NapaId);
+						$("#Security2").val(data.Security);
 						//detailSave(data.InvoiceID,data.PackingListId);
 						
 					}
 				});
 			});
+			function insertInto(){
+				var urlstr="&NapaId="+document.getElementById("NapaId2").value;
+				urlstr=urlstr+"&Security="+document.getElementById("Security2").value;
+				urlstr=urlstr+"&Cname="+document.getElementById("Cname2").value;
+				urlstr=urlstr+"&SubCName="+document.getElementById("SubCName2").value;
+				urlstr=urlstr+"&Address="+document.getElementById("Address2").value;
+				$.ajax({
+					type:"post",
+					url:"xinan/InsertIntoAction.action?"+urlstr,
+					async:"true",
+					//data:urlstr,
+					dataType:"json",
+					error:function(data){
+						alert("登録失敗！");
+					},
+					success: function(data){
+						$("#NapaId1").val("");
+						$("#NapaId").val("");
+						$("#Cname").val("");
+						$("#Cname1").val("");
+						alert("登録成功！");
+					}
+				});
+				
+			}
+			
 		</script> 
   </div>
  
@@ -204,7 +230,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
         <span data-am-modal-close
             class="am-close">&times;</span> </div>
       <div class="am-popup-bd">
-        <form class="am-form tjlanmu">
+        <form class="am-form tjlanmu" id="insertInto" method="post">
         <div class="am-form-group">
           <!--  -->
             <div class="zuo"></div>
@@ -236,7 +262,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
           <div class="am-form-group">
             <div class="zuo">加盟店ID：</div>
             <div class="you">
-              <input type="text" class="am-input-sm" style="border:0px solid ;background-color:#cccccc;font-weight:bold" id="NapaId1" value="" readonly= "true";>
+              <input type="text" name="NapaId" class="am-input-sm" style="border:0px solid ;background-color:#cccccc;font-weight:bold" id="NapaId2" value="" readonly= "true";>
             </div>
           </div>
           <div class="am-form-group">
@@ -249,32 +275,32 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
           <div class="am-form-group">
             <div class="zuo">セキュアキー：</div>
             <div class="you">
-            <input type="text" class="am-input-sm" style="border:0px solid ;background-color:#cccccc;font-weight:bold" id="Security1" value="" readonly= "true";>
+            <input type="text" class="am-input-sm" name="Security" style="border:0px solid ;background-color:#cccccc;font-weight:bold" id="Security2" value="" readonly= "true";>
             </div>
           </div>
           <div class="am-form-group">
             <div class="zuo">会社名：</div>
             <div class="you">
-              <input type="text" class="am-input-sm" style="font-weight:bold" id="doc-ipt-email-1" placeholder="会社名">
+              <input type="text" class="am-input-sm" name="Cname" style="font-weight:bold" id="Cname2" placeholder="会社名">
             </div>
           </div>
           <div class="am-form-group">
             <div class="zuo">支店名：</div>
             <div class="you">
-              <input type="email" class="am-input-sm" style="font-weight:bold" id="doc-ipt-email-1" placeholder="支店名">
+              <input type="text" class="am-input-sm" name="SubCName" style="font-weight:bold" id="SubCName2" placeholder="支店名">
             </div>
           </div>
            <div class="am-form-group">
             <div class="zuo">住所：</div>
             <div class="you">
-               <textarea class="" style="font-weight:bold" rows="5" id="doc-ta-1"></textarea>
+               <textarea class="" name="Address" style="font-weight:bold" rows="5" id="Address2"></textarea>
             </div>
           </div>
          
           <div class="am-form-group am-cf">
             <div class="you">
               <p>
-                <button type="submit" class="am-btn am-btn-success am-radius">提交</button>
+                <button type="botton" class="am-btn am-btn-success am-radius" onclick="insertInto();">提交</button>
               </p>
             </div>
           </div>

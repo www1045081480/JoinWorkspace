@@ -11,3 +11,4 @@ function Clean(){
 	 document.getElementById("Cname1").value = "";
 	 document.getElementById("NapaId1").value = "";
 }
+

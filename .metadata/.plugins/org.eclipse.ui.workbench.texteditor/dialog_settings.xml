@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="452" key="DIALOG_X_ORIGIN"/>
+		<item value="234" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="" key="selection"/>
+		<item value="Cname1" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="true" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="am-icon-plus"/>
-			<item value="criteria.and(Restrictions.eq(Users.Account, userId));"/>
-			<item value="index.jsp"/>
-			<item value="search"/>
-			<item value="meo"/>
-			<item value="form"/>
-			<item value="onclick"/>
-			<item value="検索"/>
+			<item value="Cname1"/>
+			<item value="saveInvoicePAction"/>
+			<item value="my-popup"/>
+			<item value="am-form"/>
+			<item value="am-popup-bd"/>
+			<item value="am-popup-inner"/>
+			<item value="am-popup"/>
+			<item value="admin-content"/>
 		</list>
 		<list key="replacehistory">
 			<item value="../../"/>
@@ -24,8 +28,8 @@
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="300" key="DIALOG_WIDTH"/>
 		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
-		<item value="409" key="DIALOG_HEIGHT"/>
-		<item value="699" key="DIALOG_X_ORIGIN"/>
-		<item value="327" key="DIALOG_Y_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="65" key="DIALOG_X_ORIGIN"/>
+		<item value="224" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
