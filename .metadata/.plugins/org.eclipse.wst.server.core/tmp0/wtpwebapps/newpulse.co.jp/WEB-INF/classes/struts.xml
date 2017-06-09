@@ -22,6 +22,11 @@
 			<param name="actionName">menu</param>
 		</result>-->
 		</action>
+		<action name="CreateAction"  class="jp.newpulse.action.create.CreateAction" >
+			<result name="success">
+			/WEB-INF/main/json.jsp
+			</result>
+		</action>
 		<action name="search" class="jp.newpulse.action.search.SearchAction">
 			<result name="success">
 				/WEB-INF/main/search.jsp

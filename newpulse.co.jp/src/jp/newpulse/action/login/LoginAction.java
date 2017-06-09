@@ -1,5 +1,7 @@
 package jp.newpulse.action.login;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
@@ -12,9 +14,12 @@ import com.np.base.orm.Criteria;
 import com.np.base.orm.Restrictions;
 import com.np.base.utils.MD5;
 import com.np.order.action.SessionMgr;
+import com.np.order.models.NapaStores;
 import com.np.order.models.Users;
+import com.opensymphony.xwork2.ActionContext;
 
 import jp.newpulse.action.BaseAction;
+import jp.newpulse.action.search.SearchAction;
 
 @SuppressWarnings("serial")
 public class LoginAction extends BaseAction {
@@ -23,6 +28,42 @@ public class LoginAction extends BaseAction {
 	private String passWord;
 	private Users user;
 	private String login;
+	private String NapaId;
+	private String Cname;
+	private NapaStores napastores;
+	public String getNapaId() {
+		return NapaId;
+	}
+
+	public void setNapaId(String napaId) {
+		NapaId = napaId;
+	}
+
+	public String getCname() {
+		return Cname;
+	}
+
+	public void setCname(String cname) {
+		Cname = cname;
+	}
+
+	public NapaStores getNapastores() {
+		return napastores;
+	}
+
+	public void setNapastores(NapaStores napastores) {
+		this.napastores = napastores;
+	}
+
+	public List<NapaStores> getList() {
+		return list;
+	}
+
+	public void setList(List<NapaStores> list) {
+		this.list = list;
+	}
+
+	private List<NapaStores> list = new ArrayList<NapaStores>();
 	private Map<String, Object> session;
 
 	public Map<String, Object> getSession() {
@@ -50,6 +91,9 @@ public class LoginAction extends BaseAction {
 		
 		logger.debug("############login#########");
 		//登陆画面需要重新做
+		Criteria<NapaStores> criteria = new Criteria(NapaStores.class);
+		list = criteria.list();
+		ActionContext.getContext().put("list", list);
 		return "success";
 //		if (accept() == false) {
 //			// logger.debug("user-agent = " +

@@ -49,7 +49,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
       -->
       <li class="soso"> 
         <p>
-          <button type="button" class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" data-am-modal="{target: '#my-popup'}">新規</button>
+          <button type="button" class="am-btn am-btn-danger am-round am-btn-xs am-icon-plus" data-am-modal="{target: '#my-popup'}" id="newCreat">新規</button>
         </p>
        </li>
       <li class="kuanjie"><a>加盟店ID</a> </li>
@@ -145,6 +145,29 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				defaultPlay:true,//默认是否执行效果（默认true）
 				returnDefault:true //鼠标从.sideMen移走后返回默认状态（默认false）
 				});
+			//新规通过ajax取得id和セキュアキー
+			
+			$('#newCreat').click(function(){
+			    //alert("123");
+				$.ajax({
+					type:"post",
+					url:"xinan/CreateAction.action",
+					async:"true",
+					//data:urlstr,
+					dataType:"json",
+					error:function(data){
+						alert("加盟店IDとセキュアキー取得できません。！");
+					},
+					success: function(data){
+						//alert(data.InvoiceID);
+						//alert(data.PackingListId);
+						$("#NapaId1").val(data.NapaId);
+						$("#Security1").val(data.Security);
+						//detailSave(data.InvoiceID,data.PackingListId);
+						
+					}
+				});
+			});
 		</script> 
   </div>
  
@@ -177,53 +200,77 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
     <div class="am-popup am-popup-inner" id="my-popup">
       <div class="am-popup-hd">
-        <h4 class="am-popup-title">添加商品一级分类</h4>
+        <h4 class="am-popup-title">加盟店登録</h4>
         <span data-am-modal-close
             class="am-close">&times;</span> </div>
       <div class="am-popup-bd">
         <form class="am-form tjlanmu">
+        <div class="am-form-group">
+          <!--  -->
+            <div class="zuo"></div>
+            <div class="you">
+              
+            </div>
+          </div>
           <div class="am-form-group">
-            <div class="zuo">栏目名称：</div>
+          <!--  -->
+            <div class="zuo"></div>
             <div class="you">
-              <input type="email" class="am-input-sm" id="doc-ipt-email-1" placeholder="请输入标题">
+              
             </div>
           </div>
           <div class="am-form-group">
-            <div class="zuo">栏目关键词：</div>
+          <!--  -->
+            <div class="zuo"></div>
             <div class="you">
-              <input type="password" class="am-input-sm" id="doc-ipt-pwd-1" placeholder="请输入关键词">
+              
             </div>
           </div>
-          <div class="am-form-group am-cf">
-            <div class="zuo">栏目描述：</div>
+          <div class="am-form-group">
+          <!--  -->
+            <div class="zuo"></div>
             <div class="you">
-              <textarea class="" rows="2" id="doc-ta-1"></textarea>
+              
             </div>
           </div>
-          <div class="am-form-group am-cf">
-            <div class="zuo">栏目图片：</div>
-            <div class="you" style="height: 45px;">
-              <input type="file" id="doc-ipt-file-1">
-              <p class="am-form-help">请选择要上传的文件...</p>
-            </div>
-          </div>
-          <div class="am-form-group am-cf">
-            <div class="zuo">简介：</div>
+          <div class="am-form-group">
+            <div class="zuo">加盟店ID：</div>
             <div class="you">
-              <textarea class="" rows="2" id="doc-ta-1"></textarea>
+              <input type="text" class="am-input-sm" style="border:0px solid ;background-color:#cccccc;font-weight:bold" id="NapaId1" value="" readonly= "true";>
             </div>
           </div>
-          <div class="am-form-group am-cf">
-            <div class="zuo">状态：</div>
-            <div class="you" style="margin-top: 3px;">
-              <label class="am-checkbox-inline">
-                <input type="checkbox" value="option1">
-                显示 </label>
-              <label class="am-checkbox-inline">
-                <input type="checkbox" value="option2">
-                隐藏 </label>
+          <div class="am-form-group">
+          <!--  -->
+            <div class="zuo"></div>
+            <div class="you">
+              
             </div>
           </div>
+          <div class="am-form-group">
+            <div class="zuo">セキュアキー：</div>
+            <div class="you">
+            <input type="text" class="am-input-sm" style="border:0px solid ;background-color:#cccccc;font-weight:bold" id="Security1" value="" readonly= "true";>
+            </div>
+          </div>
+          <div class="am-form-group">
+            <div class="zuo">会社名：</div>
+            <div class="you">
+              <input type="text" class="am-input-sm" style="font-weight:bold" id="doc-ipt-email-1" placeholder="会社名">
+            </div>
+          </div>
+          <div class="am-form-group">
+            <div class="zuo">支店名：</div>
+            <div class="you">
+              <input type="email" class="am-input-sm" style="font-weight:bold" id="doc-ipt-email-1" placeholder="支店名">
+            </div>
+          </div>
+           <div class="am-form-group">
+            <div class="zuo">住所：</div>
+            <div class="you">
+               <textarea class="" style="font-weight:bold" rows="5" id="doc-ta-1"></textarea>
+            </div>
+          </div>
+         
           <div class="am-form-group am-cf">
             <div class="you">
               <p>
@@ -402,6 +449,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
               <th class="table-title">加盟店名称</th>
               <th class="table-type">支店名</th>
               <th class="table-author am-hide-sm-only">セキュアキー</th>
+              <th class="table-author am-hide-sm-only">住所</th>
               <th width="163px" class="table-set">操作</th>
             </tr>
           </thead>
@@ -414,6 +462,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                   <td><s:property value='Cname'/></td>
                   <td><s:property value='SubCName'/></td>
                   <td><s:property value='Security'/></td>
+                  <td><s:property value='Address'/></td>
                   <td><div class="am-btn-toolbar">
                   <div class="am-btn-group am-btn-group-xs">
                   <a class="am-btn am-btn-default am-btn-xs am-text-success am-round am-icon-file" data-am-modal="{target: '#my-popups'}" title="改修"></a>
